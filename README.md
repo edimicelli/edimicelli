@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Eric DiMicelli
+- 👀 I’m interested in getting a job as a Data Scientist
+- 🌱 I’m currently learning statistical and mathmatical concepts for DS, along with more advanced Python to supplement
+- 📫 You can reach me at edimicelli@gmail.com
